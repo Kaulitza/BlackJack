@@ -27,3 +27,5 @@ C:\Users\miche\Documents\School\CIT195\Blackjack-master (1)\Blackjack-master\bla
 C:\Users\miche\Documents\School\CIT195\Blackjack-master (1)\Blackjack-master\blackjackwpf\obj\Debug\Blackjack.csproj.GenerateResource.cache
 C:\Users\miche\Documents\School\CIT195\Blackjack-master (1)\Blackjack-master\blackjackwpf\obj\Debug\Blackjack.exe
 C:\Users\miche\Documents\School\CIT195\Blackjack-master (1)\Blackjack-master\blackjackwpf\obj\Debug\Blackjack.pdb
+C:\Users\miche\Documents\School\CIT195\Blackjack-master (1)\Blackjack-master\blackjackwpf\obj\Debug\HelpWindow.g.cs
+C:\Users\miche\Documents\School\CIT195\Blackjack-master (1)\Blackjack-master\blackjackwpf\obj\Debug\HelpWindow.baml

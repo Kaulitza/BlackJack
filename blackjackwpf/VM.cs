@@ -60,16 +60,9 @@ namespace Blackjack
                 );
         }
 
-
         private void startGame()
         {
             int number = 4;
-            this.currentCount = number;
-            MainGame(number);
-        }
-        private void restartGame()
-        {
-            int number = 0;
             this.currentCount = number;
             MainGame(number);
         }

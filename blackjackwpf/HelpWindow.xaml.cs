@@ -10,32 +10,23 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Blackjack
+namespace MyFirstApp
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Window1.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class HelpWindow : Window
     {
-        public MainWindow()
+        public HelpWindow()
         {
             InitializeComponent();
-            VM vm = new VM();
-            this.DataContext = vm;
         }
 
-        public void Exit_Click(object sender, RoutedEventArgs e)
+        public void OKButton_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
-        }
-
-        private void ButtonHelp_Click(object sender, RoutedEventArgs e)
-        {
-            Window HelpWindow = new Window();
-            HelpWindow.Show();
         }
     }
 }
